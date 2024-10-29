@@ -1,0 +1,2 @@
+# multitenant
+Django multitenant
